@@ -17,7 +17,7 @@
   "readmeFilename": "README.markdown",
   "gitHead": "55151daed59ca2612001e493c37f2fa8407d6be6",
   "dependencies": {
-    "eve": "git://github.com/adobe-webplatform/eve.git#eef80ed"
+    "eve": "git://github.com/xiamx/eve.git#600017a"
   },
   "devDependencies": {
     "grunt": "0.4.5",
